@@ -27,8 +27,8 @@
         </Grid.RowDefinitions>
         
         <TextBlock Grid.Row="0" HorizontalAlignment="Right" Margin="10">
-            <Hyperlink NavigateUri="https://github.com/TonCunha/multi-microsoft-teams" RequestNavigate="Hyperlink_RequestNavigate">
-                Github
+            <Hyperlink NavigateUri="https://github.com/coherentsolutionsinc/multi-microsoft-teams" RequestNavigate="Hyperlink_RequestNavigate">
+                GitHub
             </Hyperlink>
         </TextBlock>
 
