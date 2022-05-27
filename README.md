@@ -23,7 +23,7 @@ Launcher to manage profiles and open multiple instances of Microsoft Teams deskt
 * .NET Core
 
 ## Releases
-You can download the latest version in [Releases](https://github.com/TonCunha/multi-microsoft-teams/releases)
+You can download the latest version in [Releases](https://github.com/coherentsolutionsinc/multi-microsoft-teams/releases)
 
 ## Deployment
 
