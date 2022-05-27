@@ -1,21 +1,22 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <UseWPF>true</UseWPF>
     <AssemblyName>Multi MS Teams</AssemblyName>
     <ApplicationIcon>Taskbar.ico</ApplicationIcon>
     <Authors>Cleriton Cunha</Authors>
     <Company />
-    <RepositoryUrl>https://github.com/TonCunha/multi-microsoft-teams</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/TonCunha/multi-microsoft-teams</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/coherentsolutionsinc/multi-microsoft-teams</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/coherentsolutionsinc/multi-microsoft-teams</PackageProjectUrl>
     <Copyright>Cleriton Cunha</Copyright>
     <Description>Launcher to manage profiles and open multiple instances of Microsoft Teams desktop version. It's compatible with many accounts and organizations (tenants).</Description>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <AssemblyVersion>1.0.0.5</AssemblyVersion>
-    <FileVersion>1.0.0.5</FileVersion>
-    <Version>1.0.0.5</Version>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <Version>1.0.1.0</Version>
     <Win32Resource />        
   </PropertyGroup>
 
